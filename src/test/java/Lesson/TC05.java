@@ -1,15 +1,17 @@
 package Lesson;
 
+import POM.MobilePage;
+import POM.RegisterPage;
 import driver.driverFactory;
 import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.*;
+import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
-import POM.RegisterPage;
-import POM.MobilePage;
 
 import java.io.File;
-import java.util.Set;
-import java.util.concurrent.TimeUnit;
+
 public class TC05 {
         @Test
         public static void testcase05() {

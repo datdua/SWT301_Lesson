@@ -1,11 +1,9 @@
 package Lesson;
 
 import driver.driverFactory;
-import org.openqa.selenium.*;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.Test;
 import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.*;
+import org.testng.annotations.Test;
 
 import java.io.File;
 import java.text.SimpleDateFormat;
