@@ -19,7 +19,7 @@ public class TC05 {
             String firstName="Nguyen";
             String middleName="Tan Dat";
             String lastName="Dat";
-            String emailAddress = "toimqn09@gmail.com";
+            String emailAddress = "toimqn27@gmail.com";
             String password= "123456";
             String confirmPassword= password;
             String emailShared= "toimqn08@gmail.com";
